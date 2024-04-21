@@ -1,4 +1,5 @@
-### Hi there 👋
+- 👋 Hi, I’m OctaVapor and i'm now a student in Yunnan Unverisity majored in Atmospheric Science.
+-  :open_book:	I'm studying MATLAB and Python now. I used to learn FORTRAN **BUT** I've forgotten it now.
 
 <!--
 **OohancocooO/OohancocooO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
