@@ -1,4 +1,4 @@
--  ![](https://unv-shield.librian.net/api/unv_shield?txt=是个菜狗&scale=2.5)
+-  ![](https://unv-shield.librian.net/api/unv_shield?txt=是个菜狗&scale=2&url=https://avatars.githubusercontent.com/u/48343495&shadow=0.9)
 
 - 👋 Hi, I’m OctaVapor and i'm now a student in Yunnan Unverisity majored in Atmospheric Science.
 -  :open_book:	I'm studying MATLAB and Python now. I used to learn FORTRAN **BUT** I've forgotten it now.
